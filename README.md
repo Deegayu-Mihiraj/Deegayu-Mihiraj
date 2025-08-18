@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=850&lines=BSc(Hons)+AI+%26+Data+Science+%40+Robert+Gordon+University;BSc(Hons)+Information+Systems+%40+Sabaragamuwa+University;Tech+Explorer+%7C+AI+Developer+%7C+Data+Science+Learner;Welcome+to+my+GitHub+Portfolio!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=1000&lines=BSc(Hons)%20AI%20%26%20Data%20Science%20@%20Robert%20Gordon%20University;BSc(Hons)%20Information%20Systems%20@%20Sabaragamuwa%20University;Tech%20Explorer%20|%20AI%20Developer%20|%20Data%20Science%20Learner;Welcome%20to%20my%20GitHub%20Portfolio!" />
 </p>
 
 ---
